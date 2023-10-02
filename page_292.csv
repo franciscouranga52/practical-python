@@ -1,23 +1,21 @@
 Physician Last Name,Physician First Name,Physician Middle Name,License Number,License Type,Effective Date,Date Updated,Year of Birth
-Iacono,Tara,M,012592,PA,04/09/2013,04/02/2013,1983.0
-Ianacone,David,,162181,MD,12/23/2015,12/16/2015,1947.0
-Iannazzi,James,A,202076,MD,04/03/2013,03/27/2013,1964.0
-Iannce,Chelsea,M,247207,MD,11/01/2012,10/25/2012,1971.0
-Iannessa,Michael,J. F.,145452,MD,10/27/2010,10/20/2010,1952.0
-Ianora,Alfred,A,096150,MD,05/06/1994,,
-Ibrahim,Ayman,A.,P36346,MD,01/04/2007,01/02/2007,1967.0
-Ibrahim,Jamil,,226342,MD,10/07/2009,10/05/2009,1968.0
-Ibrahim,Mohammad,Saed,214137,MD,08/31/2016,10/24/2016,1966.0
-Icochea,Rosendo,S,193456,MD,10/06/2010,09/30/2010,1945.0
-Icochea,Rosendo,S,193456,MD,12/29/2016,06/29/2017,1945.0
-Idrees,Muhammad,S,241773,MD,06/21/2012,06/14/2012,1963.0
-Ighama-Amegor,Ibilola,,268261,MD,09/26/2018,10/24/2018,1962.0
-Ignacio,Eugene,Enrique,198766,MD,07/07/2008,06/30/2008,1961.0
-Ignasiak,Robert,L,152523,MD,06/20/2011,06/14/2011,1955.0
-Ikramuddin,Syed,,126976,MD,11/21/1997,,
-Ikramuddin,Syed,,126976,MD,10/18/1995,,
-Ilardi,Frank,Joseph,176394,MD,07/02/2007,06/27/2007,1936.0
-Ilem,Priscilla,G,105467,MD,04/16/2008,04/17/2008,1927.0
-Iliades,Emmanuel,,132264,MD,07/07/1998,,1949.0
-New Physician Search,,,,,,,
-"Physician Records 	var css = "".visualping-container{position:relative;width:100%;overflow:hidden;margin:0 auto;height:152px;max-width:240px}.visualping-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}iframe{border:0}@media only screen and (min-width:767px) and (max-width:979px){.visualping-container{position:relative;width:100%;overflow:hidden;margin:0 auto;height:180px;max-width:240px}}@media only screen and (max-width:767px){.visualping-container{-webkit-box-sizing:inherit;-moz-box-sizing:inherit;box-sizing:inherit;max-width:95%!important}}"", head = document.head  || document.getElementsByTagName('head')[0], style = document  .createElement('style'); 	style.type = 'text/css'; 	if (style.styleSheet) {  style.styleSheet.cssText = css; 	} else {  style.appendChild(document.createTextNode(css)); 	} 	head.appendChild(style); 	document  .write('<div class=""visualping-container""><iframe src=""https://visualping.io/externalfiles/widget/vpwidget.html?clientid=34488&tpl=1&url='  + parent.document.URL + '""></iframe></div>');","Physician Last Name Physician First Name Physician Middle Name License Number License Type Effective Date Date Updated Year of Birth Iacono Tara M 012592 PA 04/09/2013 04/02/2013 1983 Ianacone David 162181 MD 12/23/2015 12/16/2015 1947 Iannazzi James A 202076 MD 04/03/2013 03/27/2013 1964 Iannce Chelsea M 247207 MD 11/01/2012 10/25/2012 1971 Iannessa Michael J. F. 145452 MD 10/27/2010 10/20/2010 1952 Ianora Alfred A 096150 MD 05/06/1994 Ibrahim Ayman A. P36346 MD 01/04/2007 01/02/2007 1967 Ibrahim Jamil 226342 MD 10/07/2009 10/05/2009 1968 Ibrahim Mohammad Saed 214137 MD 08/31/2016 10/24/2016 1966 Icochea Rosendo S 193456 MD 10/06/2010 09/30/2010 1945 Icochea Rosendo S 193456 MD 12/29/2016 06/29/2017 1945 Idrees Muhammad S 241773 MD 06/21/2012 06/14/2012 1963 Ighama-Amegor Ibilola 268261 MD 09/26/2018 10/24/2018 1962 Ignacio Eugene Enrique 198766 MD 07/07/2008 06/30/2008 1961 Ignasiak Robert L 152523 MD 06/20/2011 06/14/2011 1955 Ikramuddin Syed 126976 MD 11/21/1997 Ikramuddin Syed 126976 MD 10/18/1995 Ilardi Frank Joseph 176394 MD 07/02/2007 06/27/2007 1936 Ilem Priscilla G 105467 MD 04/16/2008 04/17/2008 1927 Iliades Emmanuel 132264 MD 07/07/1998 1949[First/Prev] 1,2,3,4,5 [Next/Last]",,,,,,
+Kepes,Ira,J.,168769,MD,09/25/2023,09/26/2023,1957
+Schneider,Howard,Frederick,189533,MD,10/03/2023,09/26/2023,1957
+Uzochukwu,Nzeadibenma,O.,231276,MD,09/28/2023,09/21/2023,1973
+Bendelstein,Harold,L.,160938,MD,09/26/2023,09/19/2023,1951
+Gregory,Joyce,,310488,MD,09/25/2023,09/18/2023,1968
+Loesevitz,Arthur,Woldemar Roderich,182467,MD,09/21/2023,09/14/2023,1953
+Barnard,Morris,,195220,MD,09/21/2023,09/14/2023,1963
+Vaccariello,Charles,J.,104837,MD,09/20/2023,09/13/2023,1941
+Rankine,Kirk,P.,294106,MD,09/20/2023,09/13/2023,1969
+Ramos,Erwin,F.,254719,MD,09/12/2023,09/05/2023,1970
+Yonan,Abdullah,M.,209041,MD,08/22/2023,09/01/2023,1956
+Francisco,Dalmacio,H.,200393,MD,09/07/2023,08/31/2023,1945
+Weis,Adam,J.,285446,MD,09/07/2023,08/31/2023,1985
+Delaney,Terence,John,174561,MD,09/07/2023,08/31/2023,1960
+Sherman,Lawrence,M.,129824,MD,09/07/2023,08/31/2023,1949
+Kollisch,Donald,O.,134736,MD,09/07/2023,08/31/2023,1951
+Putterman,Alan,P.,147981,DO,09/05/2023,08/29/2023,1954
+Sudberg,Jordan,,272774,MD,09/05/2023,08/29/2023,1972
+Staicu,Irina,,300704,DO,08/15/2023,08/29/2023,1986
+Khan,Aimal,,268030,MD,05/31/2023,08/29/2023,1975
